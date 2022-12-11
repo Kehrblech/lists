@@ -1,2 +1,3 @@
 # lists
-collection of .txt or py modules list 
+Collection of .txt or py modules list.
+Contains names, jobs, hobbys, cities etc.
